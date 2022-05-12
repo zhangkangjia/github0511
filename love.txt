@@ -1,4 +1,6 @@
 qwqweqeq
 dadadasd
+<<<<<<< HEAD
 23123123
 12121212
+12121312
